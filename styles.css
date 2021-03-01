@@ -11,7 +11,7 @@ body {font-size: 14px;
         background-image: none;
         background-image: url(images/bg-pattern-top-mobile.svg);
     }
-    .texto{
+    .titulo{
         text-align: center;
     }
 
@@ -36,8 +36,8 @@ p{
     font-weight: 500;
 }
 
-.img{
-    width: 15%;
+.imagen{
+    width: 10%;
 }
 .bor{
     border-radius: 10px;
