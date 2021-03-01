@@ -14,6 +14,16 @@ body {font-size: 14px;
     .texto{
         text-align: center;
     }
+
+    .min-margen{
+        margin-right: 0px;
+    
+
+    }
+}
+
+.min-margen{
+    margin-right: 70px;
 }
 
 h1{
